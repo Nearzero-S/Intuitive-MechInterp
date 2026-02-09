@@ -59,8 +59,8 @@ Technical Appendix: The 3R Compliance Matrix
 
 Metric	Substrate Event	2026 Regulatory Alignment
 
-Reliability	Minimizing SAE reconstruction error.	NYC Local Law 144 (Bias Audit)
+Reliability ->	Minimizing SAE reconstruction error.	NYC Local Law 144 (Bias Audit)
 
-Repeatability	Consistency of circuit motifs across checkpoints.	NIST AI Risk Management Framework
+Repeatability ->	Consistency of circuit motifs across checkpoints.	NIST AI Risk Management Framework
 
-Robustness Resistance to activation-patching drift.	EU AI Act & NYC RAISE Act
+Robustness -> Resistance to activation-patching drift.	EU AI Act & NYC RAISE Act
